@@ -17,3 +17,5 @@ GitHub Pages üzerinden yayımlanır. Adresler:
 ## Not
 
 Bu repodaki metinler bilgilendirme amaçlıdır ve hukuki danışmanlık yerine geçmez.
+
+MIT License
